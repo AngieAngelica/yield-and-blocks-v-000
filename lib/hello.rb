@@ -1,5 +1,7 @@
 def hello_t(array)
- =log10
+  i = 0
+  
+  while i < array.length
 
 
 end
